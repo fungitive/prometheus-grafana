@@ -12,3 +12,7 @@ grafan监控kubernetes主要使用三个模板，可以直接引入
     cluster：  https://grafana.com/dashboards/162
     pods：  https://grafana.com/dashboards/747
     deploy：   https://grafana.com/dashboards/741
+
+参考：
+
+    https://github.com/prometheus/prometheus/tree/master/documentation/examples
