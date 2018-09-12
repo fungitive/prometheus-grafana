@@ -1,5 +1,4 @@
-# prometheus-grafana
-kubernetes监控prometheus+grafana
+# kubernetes监控prometheus+grafana
 
     kubectl apply -f .
 访问grafana
